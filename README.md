@@ -7,5 +7,5 @@
 해당 기능을 사용하여 생기는 책임은 전부 사용자에게 있음을 알려드립니다.
 ```
 이 제품은 [React Native](http://reactnative.dev/)와 [Expo](http://expo.io/)를 이용하여 만들어졌으며,
-[해당 레포지토리](https://github.com/junhoyeo/self-check-automation)를 참고하여 만들어졌습니다.
+API 분석은 [해당 레포지토리](https://github.com/junhoyeo/self-check-automation)를 참고하여 만들어졌습니다.
 <br />
